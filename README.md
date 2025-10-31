@@ -1,5 +1,10 @@
 # 🌌 Night Simulator
 
+
+**YOU CAN GET THIS GAME CODE FROM THIS DRIVE LINK**
+**https://drive.google.com/file/d/1Zp1KeaAcX9tW7iw0tUG5RoN2yIbFODQU/view?usp=sharing**
+**IF NEEDED THE ASSETS FILE JUST COMMENT ON THIS REPO AND I WILL MAKE ALL THE REQUIRED ASSETS FROM THE UNITY ASSET STORE LINKS**
+
 **Night Simulator** is a Unity 3D game project developed as part of a college submission. Set in a mysterious, neon-lit city at night, the game features two unique modes: a **Survival Challenge** where you must collect 8 pages while evading *Slenderman*, and a **Free Roam Driving Mode** where you can relax and explore the dark city streets at your own pace.
 
 Built using **Unity 2022.3 LTS**, the game combines eerie atmosphere, smooth vehicle mechanics, and immersive lighting to deliver both thrill and freedom in one experience.
