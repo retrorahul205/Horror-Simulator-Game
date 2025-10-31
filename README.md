@@ -63,16 +63,6 @@ Built using **Unity 2022.3 LTS**, the game combines eerie atmosphere, smooth veh
 
 ---
 
-## 🖼️ Screenshots
-
-*(Add screenshots here once uploaded)*
-Example:
-
-```
-![Survival Mode](Screenshots/survival_mode.png)
-![Driving Mode](Screenshots/driving_mode.png)
-```
-
 ---
 
 ## 🚀 How to Play
